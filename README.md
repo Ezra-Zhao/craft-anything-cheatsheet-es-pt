@@ -1,5 +1,7 @@
 # Craft Anything 速查表 | Craft Anything Cheatsheet | Guía rápida de Craft Anything
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **先看懂任何软件怎么运作，再让 AI 照着做你自己的版本 —— 但只对你有权查看的软件用**
 
 > 一页看懂 Craft Anything：一个纯 Rust 写的开源「洁净室」逆向与重建引擎。把一个网站、桌面应用、手机应用、游戏或文件指给它，它先用真正的检查工具把原作研究透（每条结论都带证据），再让编程助手按你的要求从零建一个新项目，然后拿成品逐项和原作对照、列出还差在哪、继续修到接近为止。320 个工具同时是 CLI 命令与 MCP 工具 —— 桌面应用能做的，任何智能体也能驱动。
